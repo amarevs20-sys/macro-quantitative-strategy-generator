@@ -2,6 +2,10 @@ streamlit
 pandas
 numpy
 plotly
+plotly express
+plotly graph objects
 scikit-learn
 fredapi
 yfinance
+os
+re
